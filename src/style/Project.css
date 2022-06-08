@@ -1,0 +1,60 @@
+.project {
+  background-color: #F5F5F5;
+}
+
+img.project_img {
+  border-radius: 10px;
+  width: 25%;
+  object-fit: cover;
+  transition: .4s;
+  opacity: .7;
+  position: relative;
+}
+
+img.project_img::after {
+  content: '';
+  width: 25%;
+  height: 50%;
+  background-color: #000;
+  z-index: 1;
+  opacity: 1;
+}
+
+.mask_effect {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  border-radius: 10px;
+  transition: .4s;
+  opacity: .3;
+  display: none;
+}
+
+
+
+.project_btn {
+  padding: 10px 15px;
+  font-size: 10px;
+  font-weight: 250;
+  border-radius: 5px;
+  border: 2px solid black;
+  background-color: black;
+  color: #fff !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: .4s all ease;
+  margin-bottom: 50px;
+}
+
+
+/* RESPONSIVE */
+@media only screen and (max-width: 1024px) {
+  h5.project_text {
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+}
