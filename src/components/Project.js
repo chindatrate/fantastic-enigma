@@ -6,7 +6,7 @@ import Project2 from '../img/travelapp.png';
 
 function Project() {
   return (
-    <div className="project component_space" id="Portfolio">
+    <div className="project" id="Portfolio">
       <div className="heading">
         <h1 className="heading">Some of my projects</h1>
       </div>
