@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fantastic-enigma/static/css/main.3fc89929.css",
+    "main.js": "/fantastic-enigma/static/js/main.acc6b6ac.js",
+    "static/js/787.2261a0b6.chunk.js": "/fantastic-enigma/static/js/787.2261a0b6.chunk.js",
+    "static/media/travelapp.png": "/fantastic-enigma/static/media/travelapp.3122f5525e3d423b3b51.png",
+    "static/media/space.png": "/fantastic-enigma/static/media/space.8665a665dbe3144fe217.png",
+    "index.html": "/fantastic-enigma/index.html",
+    "main.3fc89929.css.map": "/fantastic-enigma/static/css/main.3fc89929.css.map",
+    "main.acc6b6ac.js.map": "/fantastic-enigma/static/js/main.acc6b6ac.js.map",
+    "787.2261a0b6.chunk.js.map": "/fantastic-enigma/static/js/787.2261a0b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc89929.css",
+    "static/js/main.acc6b6ac.js"
+  ]
+}
