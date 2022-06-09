@@ -1,18 +1,34 @@
 import './App.css';
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Home from "./components/Home";
-import Project from "./components/Project";
-
+import React from "react";
+import About from "./pages/AboutMe";
+import Contact from "./pages/ContactMe";
+import NavBar from "./components/NavBar";
+import Portfolio from "./pages/Portfolio";
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      <Home />
-      <About />
-      <Project />
-      <Contact />
-    </div>
+    <Router>
+      <NavBar />
+      <div className="container">
+        <Routes>
+          <Route
+            path="/"
+            element={<About />}
+          />
+          <Route
+            path="/Portfolio"
+            element={<Portfolio />}
+          />
+          <Route
+            path="/Contact"
+            element={<Contact />}
+          />
+        </Routes>
+
+      </div>
+    </Router>
   );
 }
 
