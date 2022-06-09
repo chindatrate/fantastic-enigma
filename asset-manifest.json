@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/fantastic-enigma/static/css/main.3fc89929.css",
-    "main.js": "/fantastic-enigma/static/js/main.acc6b6ac.js",
+    "main.css": "/fantastic-enigma/static/css/main.266c5cb7.css",
+    "main.js": "/fantastic-enigma/static/js/main.5af3e396.js",
     "static/js/787.2261a0b6.chunk.js": "/fantastic-enigma/static/js/787.2261a0b6.chunk.js",
     "static/media/travelapp.png": "/fantastic-enigma/static/media/travelapp.3122f5525e3d423b3b51.png",
     "static/media/space.png": "/fantastic-enigma/static/media/space.8665a665dbe3144fe217.png",
+    "static/media/pokedex.png": "/fantastic-enigma/static/media/pokedex.1e4308e09f66503edbe3.png",
+    "static/media/password.png": "/fantastic-enigma/static/media/password.fa3ad250ab64061559af.png",
+    "static/media/codequiz.png": "/fantastic-enigma/static/media/codequiz.019cdb73ce67e1c84c96.png",
+    "static/media/scheduler.png": "/fantastic-enigma/static/media/scheduler.ae038c2b4f558e2a7b87.png",
+    "static/media/resume.pdf": "/fantastic-enigma/static/media/resume.aed4311e42933978ec51.pdf",
     "index.html": "/fantastic-enigma/index.html",
-    "main.3fc89929.css.map": "/fantastic-enigma/static/css/main.3fc89929.css.map",
-    "main.acc6b6ac.js.map": "/fantastic-enigma/static/js/main.acc6b6ac.js.map",
+    "main.266c5cb7.css.map": "/fantastic-enigma/static/css/main.266c5cb7.css.map",
+    "main.5af3e396.js.map": "/fantastic-enigma/static/js/main.5af3e396.js.map",
     "787.2261a0b6.chunk.js.map": "/fantastic-enigma/static/js/787.2261a0b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fc89929.css",
-    "static/js/main.acc6b6ac.js"
+    "static/css/main.266c5cb7.css",
+    "static/js/main.5af3e396.js"
   ]
 }
